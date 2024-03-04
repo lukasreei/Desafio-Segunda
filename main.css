@@ -1,0 +1,90 @@
+body{
+    background-color: black;
+}
+
+.img{
+    width: 360px;
+    margin: auto;
+    height: 178px;
+    padding-bottom: 2px;
+    
+}
+
+.formulario{
+    width: 1465px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 363px;
+    padding: 90px, 101px, 84.28px, 98px;
+    
+}
+.email{
+    width: 59px;
+    color: white;
+    height: 25px;
+    top: 192px;
+    left: 98px;
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.senha{
+    width: 59px;
+    height: 25px;
+    top: 192px;
+    left: 98px;
+    color: white;
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.box1{
+    width: 466px;
+    height: 47px;
+    border-radius: 4.02px;
+    border: 1.61px;
+}
+
+.box2{
+    width: 466px;
+    height: 46px;
+    top: 222.72px;
+    left: 98px;
+    border-radius: 4.02px;
+    border: 1.61px;
+
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.enviar{
+    width: (191px);
+    height: (67px);
+    padding: 10px, 20px, 10px, 20px;
+    border-radius: 10px;
+    gap: 10px;
+    background: #2FB23C;
+
+    font-family: Poppins;
+    font-size: 31px;
+    font-weight: 500;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+}
